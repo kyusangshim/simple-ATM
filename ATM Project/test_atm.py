@@ -5,7 +5,7 @@ from bankapi import BankAPI
 class TestATM(unittest.TestCase):
     def setUp(self):
         self.bank_api = BankAPI()
-        self.atm = ATMController(self.bank_api)
+        self.atm = ATM(self.bank_api)
         self.card_number = "1111-1111"
         self.pin = "1111"
     
