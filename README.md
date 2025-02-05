@@ -27,5 +27,5 @@ python main.py
 To run unit tests, execute the following command:
 
 ```sh
-python -m unittest test_atm
+python -m unittest test_atm.py
 ```
