@@ -25,6 +25,7 @@ python main.py
 There are two cards available: **"1111-1111"** and **"2222-2222"**.<br>
 Each card has a corresponding PIN number: **"1111"** for the first card and **"2222"** for the second card.<br>
 Each card has two accounts: one is a **"checking"** account and the other is a **"savings"** account.<br>
+The checking account is used for daily transactions, such as deposits and withdrawals, while the savings account is intended for saving money and earning interest over time. <br>
 You can choose between these accounts to check the balance, deposit, or withdraw money.
 
 
