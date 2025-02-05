@@ -11,7 +11,7 @@ Clone the repository using the following command:
 
 ```sh
 git clone https://github.com/kyusangshim/simple-ATM
-cd <YOUR_PROJECT_DIRECTORY>
+cd simple-ATM
 ```
 
 ## Usage
